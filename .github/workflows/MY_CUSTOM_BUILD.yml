@@ -1,7 +1,7 @@
 # Copyright 2022 Manna Harbour
 # https://github.com/manna-harbour/miryoku
 
-name: "My own custom build for my corne-choc-ice"
+name: "MY_BUILD"
 on: workflow_dispatch
 jobs:
   build:
